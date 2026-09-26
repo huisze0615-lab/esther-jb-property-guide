@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" role="img" aria-labelledby="title desc">
+  <title id="title">A three-step new-condo comparison</title>
+  <desc id="desc">First check documents, then compare full cost, then test daily fit. This is an illustrative buyer method.</desc>
+  <rect width="960" height="290" rx="28" fill="#f3f7f2"/>
+  <text x="48" y="58" fill="#183733" font-family="Arial,sans-serif" font-size="29" font-weight="700">Compare in this order</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="48" y="91" width="245" height="140" rx="18" fill="#fffdf8" stroke="#d5e4dc" stroke-width="2"/>
+    <rect x="357" y="91" width="245" height="140" rx="18" fill="#fffdf8" stroke="#d5e4dc" stroke-width="2"/>
+    <rect x="666" y="91" width="245" height="140" rx="18" fill="#fffdf8" stroke="#d5e4dc" stroke-width="2"/>
+    <g fill="#9d7344" font-size="17" font-weight="700"><text x="72" y="124">01</text><text x="381" y="124">02</text><text x="690" y="124">03</text></g>
+    <g fill="#183733" font-size="24" font-weight="700"><text x="72" y="166">Documents</text><text x="381" y="166">Full cost</text><text x="690" y="166">Daily fit</text></g>
+    <g fill="#55716b" font-size="16"><text x="72" y="198">What is confirmed?</text><text x="381" y="198">What will it really cost?</text><text x="690" y="198">Does it suit your week?</text></g>
+    <g fill="#4d806f" font-size="36" font-weight="700"><text x="310" y="177">→</text><text x="619" y="177">→</text></g>
+    <text x="48" y="266" fill="#55716b" font-size="15">Illustrative buyer tool, not project imagery or personalised advice.</text>
+  </g>
+</svg>

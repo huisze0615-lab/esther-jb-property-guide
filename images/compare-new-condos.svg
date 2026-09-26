@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Two new condos, one fair comparison</title>
+  <desc id="desc">Illustrative comparison of Unit A and Unit B across documents, full cost and daily fit. No project or price data is shown.</desc>
+  <rect width="960" height="560" rx="28" fill="#f3f7f2"/>
+  <text x="56" y="72" fill="#183733" font-family="Arial,sans-serif" font-size="31" font-weight="700">Two homes. One fair comparison.</text>
+  <text x="56" y="111" fill="#55716b" font-family="Arial,sans-serif" font-size="18">Illustrative buyer worksheet — fill with current, written details.</text>
+  <rect x="56" y="155" width="848" height="340" rx="22" fill="#fffdf8" stroke="#d5e4dc" stroke-width="2"/>
+  <rect x="56" y="155" width="848" height="75" rx="22" fill="#e5eee7"/>
+  <rect x="56" y="205" width="848" height="25" fill="#e5eee7"/>
+  <text x="84" y="203" fill="#183733" font-family="Arial,sans-serif" font-size="20" font-weight="700">CHECK</text>
+  <text x="468" y="203" fill="#183733" font-family="Arial,sans-serif" font-size="20" font-weight="700">UNIT A</text>
+  <text x="700" y="203" fill="#183733" font-family="Arial,sans-serif" font-size="20" font-weight="700">UNIT B</text>
+  <path d="M56 230H904 M56 318H904 M56 406H904 M425 155V495 M661 155V495" stroke="#d5e4dc" stroke-width="2"/>
+  <g fill="#183733" font-family="Arial,sans-serif" font-size="21">
+    <text x="84" y="284">Documents</text><text x="84" y="372">Full cost</text><text x="84" y="460">Daily fit</text>
+  </g>
+  <g fill="#55716b" font-family="Arial,sans-serif" font-size="19">
+    <text x="468" y="284">Verified / ?</text><text x="700" y="284">Verified / ?</text>
+    <text x="468" y="372">Written / ?</text><text x="700" y="372">Written / ?</text>
+    <text x="468" y="460">Checked / ?</text><text x="700" y="460">Checked / ?</text>
+  </g>
+  <text x="56" y="535" fill="#55716b" font-family="Arial,sans-serif" font-size="15">? means unconfirmed. This graphic does not depict any actual project or listing.</text>
+</svg>
