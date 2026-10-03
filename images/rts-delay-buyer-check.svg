@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+  <title id="title">RTS 延期后的三步买房核对</title>
+  <desc id="desc">先核对今天能使用的通勤方式，再比较房屋本身与总支出，最后把未来 RTS 服务当成仍须验证的条件。</desc>
+  <rect width="1200" height="600" rx="28" fill="#f8f6ef"/>
+  <text x="56" y="79" fill="#ae8052" font-size="20" font-weight="700" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" letter-spacing="2">ESTHER · 买家判断图</text>
+  <text x="56" y="141" fill="#163a32" font-size="39" font-weight="700" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">RTS 延期后，先按这个顺序看房</text>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif">
+    <rect x="56" y="204" width="337" height="288" rx="22" fill="#fff" stroke="#d5e4dc" stroke-width="2"/>
+    <circle cx="102" cy="256" r="25" fill="#e4efe8"/>
+    <text x="94" y="265" fill="#1b6752" font-size="23" font-weight="700">1</text>
+    <text x="84" y="323" fill="#173a33" font-size="27" font-weight="700">今天能怎么走？</text>
+    <text x="84" y="368" fill="#55716b" font-size="19">现在的过关与接驳路线</text>
+    <text x="84" y="403" fill="#55716b" font-size="19">是否适合你的上班时间？</text>
+    <rect x="431" y="204" width="337" height="288" rx="22" fill="#fff" stroke="#d5e4dc" stroke-width="2"/>
+    <circle cx="477" cy="256" r="25" fill="#e4efe8"/>
+    <text x="469" y="265" fill="#1b6752" font-size="23" font-weight="700">2</text>
+    <text x="459" y="323" fill="#173a33" font-size="27" font-weight="700">房子本身合适吗？</text>
+    <text x="459" y="368" fill="#55716b" font-size="19">实际单位、总支出与生活路线</text>
+    <text x="459" y="403" fill="#55716b" font-size="19">不要只用“靠近车站”筛选。</text>
+    <rect x="806" y="204" width="337" height="288" rx="22" fill="#fff" stroke="#d5e4dc" stroke-width="2"/>
+    <circle cx="852" cy="256" r="25" fill="#e4efe8"/>
+    <text x="844" y="265" fill="#1b6752" font-size="23" font-weight="700">3</text>
+    <text x="834" y="323" fill="#173a33" font-size="27" font-weight="700">未来再验证</text>
+    <text x="834" y="368" fill="#55716b" font-size="19">目标开通时间仍附带条件。</text>
+    <text x="834" y="403" fill="#55716b" font-size="19">营运后再实测整段通勤。</text>
+  </g>
+  <text x="56" y="552" fill="#667a70" font-size="17" font-family="Microsoft YaHei, Noto Sans SC, sans-serif">原创决策示意图 · 非实际路线图、车站照片或开通保证</text>
+</svg>

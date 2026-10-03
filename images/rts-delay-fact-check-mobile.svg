@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="830" viewBox="0 0 600 830" role="img" aria-labelledby="title desc">
+  <title id="title">RTS 延期与 JB 房产：已确认和未获证实</title>
+  <desc id="desc">官方已确认载客服务新目标与待完成程序，但不能由延期直接推断房价、租金或升值结果。</desc>
+  <rect width="600" height="830" rx="24" fill="#f8f6ef"/>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif">
+    <text x="34" y="55" fill="#ae8052" font-size="18" font-weight="700">ESTHER · 事实核对图</text>
+    <text x="34" y="103" fill="#163a32" font-size="30" font-weight="700">RTS 延期：哪些已确认？</text>
+    <text x="34" y="143" fill="#163a32" font-size="30" font-weight="700">哪些还不能说？</text>
+    <rect x="32" y="184" width="536" height="252" rx="18" fill="#e5f0e8" stroke="#bfd8c8" stroke-width="2"/>
+    <text x="60" y="233" fill="#1b6752" font-size="26" font-weight="700">官方已确认</text>
+    <text x="60" y="285" fill="#173a33" font-size="21">● 载客服务现以 2027 年 2 月为目标</text>
+    <text x="60" y="337" fill="#173a33" font-size="21">● 仍须测试、安全认证与审批</text>
+    <text x="60" y="389" fill="#173a33" font-size="21">● 目标日期不是保证开通日</text>
+    <rect x="32" y="456" width="536" height="252" rx="18" fill="#fff" stroke="#e0d7c7" stroke-width="2"/>
+    <text x="60" y="505" fill="#9b744b" font-size="26" font-weight="700">不能直接推断</text>
+    <text x="60" y="557" fill="#4a5e56" font-size="21">● 某个项目房价一定涨或跌</text>
+    <text x="60" y="609" fill="#4a5e56" font-size="21">● 租金或回报已有保证</text>
+    <text x="60" y="661" fill="#4a5e56" font-size="21">● 近站就适合每一位买家</text>
+    <text x="34" y="767" fill="#667a70" font-size="16">依据马新 2026-10-02 联合公告</text>
+    <text x="34" y="793" fill="#667a70" font-size="16">本图不代表房价预测</text>
+  </g>
+</svg>

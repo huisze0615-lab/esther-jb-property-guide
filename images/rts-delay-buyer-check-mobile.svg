@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+  <title id="title">RTS 延期后的三步买房核对</title>
+  <desc id="desc">先核对今天能使用的通勤方式，再比较房屋本身与总支出，最后验证未来 RTS 服务。</desc>
+  <rect width="600" height="900" rx="24" fill="#f8f6ef"/>
+  <g font-family="Microsoft YaHei, Noto Sans SC, sans-serif">
+    <text x="34" y="55" fill="#ae8052" font-size="18" font-weight="700">ESTHER · 买家判断图</text>
+    <text x="34" y="102" fill="#163a32" font-size="30" font-weight="700">RTS 延期后</text>
+    <text x="34" y="142" fill="#163a32" font-size="30" font-weight="700">先按这个顺序看房</text>
+    <rect x="32" y="184" width="536" height="190" rx="18" fill="#fff" stroke="#d5e4dc" stroke-width="2"/>
+    <circle cx="78" cy="230" r="25" fill="#e4efe8"/><text x="70" y="239" fill="#1b6752" font-size="24" font-weight="700">1</text>
+    <text x="112" y="240" fill="#173a33" font-size="26" font-weight="700">今天能怎么走？</text>
+    <text x="62" y="293" fill="#55716b" font-size="21">现在的过关与接驳路线，</text>
+    <text x="62" y="327" fill="#55716b" font-size="21">适合你的上班时间吗？</text>
+    <rect x="32" y="392" width="536" height="190" rx="18" fill="#fff" stroke="#d5e4dc" stroke-width="2"/>
+    <circle cx="78" cy="438" r="25" fill="#e4efe8"/><text x="70" y="447" fill="#1b6752" font-size="24" font-weight="700">2</text>
+    <text x="112" y="448" fill="#173a33" font-size="26" font-weight="700">房子本身合适吗？</text>
+    <text x="62" y="501" fill="#55716b" font-size="21">看实际单位、总支出、</text>
+    <text x="62" y="535" fill="#55716b" font-size="21">日常路线与居住需要。</text>
+    <rect x="32" y="600" width="536" height="190" rx="18" fill="#fff" stroke="#d5e4dc" stroke-width="2"/>
+    <circle cx="78" cy="646" r="25" fill="#e4efe8"/><text x="70" y="655" fill="#1b6752" font-size="24" font-weight="700">3</text>
+    <text x="112" y="656" fill="#173a33" font-size="26" font-weight="700">未来再验证</text>
+    <text x="62" y="709" fill="#55716b" font-size="21">目标开通仍有条件；</text>
+    <text x="62" y="743" fill="#55716b" font-size="21">营运后再实测整段通勤。</text>
+    <text x="34" y="840" fill="#667a70" font-size="17">原创决策示意 · 非路线图或开通保证</text>
+  </g>
+</svg>
