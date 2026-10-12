@@ -1,0 +1,106 @@
+/* Esther's personal page: quiet warm-grey editorial theme. */
+:root {
+  --ink: #262b2d;
+  --forest: #292f31;
+  --sage: #737d7d;
+  --cream: #f3f3f0;
+  --line: #dce0de;
+  --gold: #a58e75;
+  --muted: #626b6d;
+}
+
+body { background: #fbfbf9; color: var(--ink); }
+.topbar { background: rgba(251,251,249,.97); border-bottom-color: #e2e4e1; }
+.logo span { color: #95816d; }
+.nav a:hover, .inline-link, .guide-latest a, .guide-note > a,
+.path-card > span, .path-note a, .featured-actions a,
+.media-links a, .project-actions a { color: #343c3e; }
+.nav .nav-cta { border-color: #b8c0bf; background: #fff; }
+.nav .nav-cta:hover { background: #edf0ee; }
+.kicker, .path-card small, .story small, .featured-body small {
+  color: #947e67;
+}
+
+.hero {
+  color: var(--ink);
+  background: linear-gradient(125deg,#f6f6f3 0%,#e8eae8 100%);
+  border-bottom: 1px solid var(--line);
+}
+.hero .wrap { min-height: 570px; gap: clamp(34px,5vw,72px); }
+.hero .kicker { color: #8d7863; }
+.hero h1 em { color: #4f5b5c; }
+.hero-lead { color: #515b5d; }
+.hero-small { color: #697374; }
+.portrait {
+  height: 500px;
+  min-height: 0;
+  margin: 34px 0;
+  border-radius: 16px;
+  background: #d8dcda;
+  box-shadow: 0 20px 45px rgba(29,34,35,.09);
+}
+.portrait img { height: 100%; }
+.portrait-tag { background: rgba(39,45,46,.8); }
+.button-light, .button-green, .featured-actions .featured-primary {
+  background: #2c3335;
+  color: #fff;
+}
+.button-light:hover, .button-green:hover,
+.featured-actions .featured-primary:hover { background: #454e50; }
+.button-outline { color: #30383a; border-color: #aeb7b6; }
+.button-outline:hover { background: #e3e7e5; }
+.button:focus-visible, a:focus-visible, input:focus-visible,
+select:focus-visible { outline-color: #977f66; }
+
+.section-soft, .featured-projects { background: #f4f5f2; }
+.section { padding-block: 82px; }
+.section-head h2, .featured-projects h2 { letter-spacing: -.025em; }
+.about-copy, .about-copy p, .section-head p:last-child,
+.featured-intro, .featured-body p, .featured-note,
+.guide-latest, .path-card p, .buyer-card p,
+.match-intro p, .bottom p { color: var(--muted); }
+.pill { background: #f1f2f0; border-color: #dce0de; color: #4d5758; }
+.buyer-card, .path-card, .story, .featured-card,
+.calc-box, .calc-result, .media-card {
+  border-color: #dfe2e0;
+  background: #fff;
+  box-shadow: none;
+}
+.buyer-card:after { border-color: rgba(113,123,124,.065); }
+.buyer-card .number { background: #edf0ee; color: #40494a; }
+.buyer-card strong { color: #303a3b; }
+.path-card:hover, .story:hover, .featured-card:hover {
+  box-shadow: 0 10px 28px rgba(35,40,40,.08);
+}
+.path-note, .guide-more, .needs, .landed-panel,
+.match-shell, .calc-result { background: #edeFEB; border-color: #d9dfdb; }
+.landed-points li { color: #414a4b; }
+.match-form { box-shadow: 0 12px 28px rgba(35,40,40,.045); border-color: #e1e4e1; }
+.match-field input, .match-field select, .field input { border-color: #b7bfbe; }
+.match-field input::placeholder { color: #858e8d; }
+.match-steps, .needs p, .landed-panel p { color: #586264; }
+.figure.monthly strong, .fineprint a { color: #30383a; }
+.featured-card figure { background: #e8eae8; }
+.featured-card:last-child img { transform: scale(1.055); }
+.featured-card figcaption { background: rgba(39,45,46,.86); }
+.featured-body small { color: #8b7765; }
+.featured-note { line-height: 1.7; }
+.bottom { background: #303638; }
+.bottom .kicker { color: #c3b19d !important; }
+.bottom p { color: #e0e4e2; }
+.bottom .button-light { background: #f8f8f6; color: #292f31; }
+.bottom .button-light:hover { background: #e9edeb; }
+.footer { background: #252b2d; color: #ccd2cf; }
+.mobile-action { background: #fbfbf9; border-top-color: #e0e4e1; }
+.mobile-action a { background: #2c3335; }
+
+@media (max-width: 900px) {
+  .portrait { height: 300px; margin: 24px 0; }
+}
+@media (max-width: 680px) {
+  .section { padding-block: 62px; }
+  .hero-content { padding-top: 54px; }
+  .portrait { height: 235px; margin: 20px auto 38px; }
+  .hero .wrap { gap: 0; }
+  .featured-grid { gap: 16px; }
+}
