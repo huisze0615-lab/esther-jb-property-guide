@@ -10,6 +10,7 @@
 }
 
 body { background: #fbfbf9; color: var(--ink); }
+section[id] { scroll-margin-top: 82px; }
 .topbar { background: rgba(251,251,249,.97); border-bottom-color: #e2e4e1; }
 .logo span { color: #95816d; }
 .nav a:hover, .inline-link, .guide-latest a, .guide-note > a,
